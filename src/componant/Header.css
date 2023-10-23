@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: gray;
+}
+.header__logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.header__icon{
+    padding: 20px;
+}
